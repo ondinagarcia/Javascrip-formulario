@@ -2,10 +2,23 @@ input {
     border: none;
     outline: none;
     border-bottom: 1px solid #5757;
-    padding: 3em;
+    padding-inline-start:  4%;
+
+    
 
 }
 
 label {
-    
+   align-content: flex-end;
+   
+   
+}
+
+.red {
+    background-color: blue;
+    color: red;
+
+}
+.blue {
+    color:blue
 }
