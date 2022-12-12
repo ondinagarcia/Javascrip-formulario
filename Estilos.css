@@ -30,8 +30,10 @@ label {
 }
 #contenedor{
     border-style: solid;
-    background-color: rgb(87, 21, 148);
-    width: 25%;
+    background-color: rgb(112, 40, 96);
+    width: 15%;
     height: 55%;
 }
-
+#footer{
+display: flex;
+}
