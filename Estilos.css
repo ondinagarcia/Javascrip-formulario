@@ -22,3 +22,16 @@ label {
 .blue {
     color:blue
 }
+.img-1{
+    width: 20%;
+    height: 20%;
+    margin: 25%;
+    
+}
+#contenedor{
+    border-style: solid;
+    background-color: rgb(87, 21, 148);
+    width: 25%;
+    height: 55%;
+}
+
